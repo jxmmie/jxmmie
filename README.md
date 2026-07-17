@@ -1,3 +1,13 @@
+
+<br clear="both">
+
+<div align="center">
+  <img height="150" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExenN6eGVqeGZzN3A3M2VnZTFndm9kZHZ4d3FvN29sbnk4cXpyZHZ3byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Yc2D1pvDef3vTFOzDr/giphy.gif"  />
+</div>
+
+###
+
+<br clear="both">
 <h1 align="center">Hi 👋, I'm Thiwakorn Jampaburee</h1>
 <h3 align="center">I'm a Computer Science student at Mahasarakham University, Thailand 🇹🇭, passionate about building modern web applications and scalable systems. I enjoy working with full-stack technologies and love turning ideas into real products.</h3>
 
